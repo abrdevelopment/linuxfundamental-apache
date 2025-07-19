@@ -21,11 +21,11 @@ sudo ./apache.sh
 💡 Dica: Certifique-se de ter permissões de sudo para executar o script corretamente.
 
 📂 Estrutura
-
+```
 linuxfundamental-apache/
 ├── apache.sh      # Script de instalação do Apache2
 └── README.md      # Documentação do projeto
-
+```
 🛠 Requisitos
 - Distribuição Linux baseada em Debian (ex: Ubuntu-Server)
 - Acesso root ou permissões de sudo
